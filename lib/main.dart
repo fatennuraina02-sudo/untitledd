@@ -24,7 +24,6 @@ body: SafeArea(
   style: TextStyle(
   color: Colors.white
   ),
-  
   ),
   ),
 ),
